@@ -12,7 +12,7 @@
 }
 .cart-container{
     margin-left:20px;
-    background-color: #F3DBB0;
+    background-color: rgba(255, 153, 0, 0.3);
     padding:10px;
     height:100vh;
     position:sticky;
